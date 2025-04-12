@@ -1,0 +1,6 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "editor.fontLigatures": true,
+  "bitoAI.codeCompletion.enableAutoCompletion": false
+}
